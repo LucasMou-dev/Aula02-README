@@ -26,4 +26,3 @@ No entanto, não podemos esquecer que a contínua expansão de nossa atividade e
     <li><a href="#">Descrição do Projeto</a></li>
 </ul>
 
-#### continua
